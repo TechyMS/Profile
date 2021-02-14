@@ -1,9 +1,9 @@
-# Hi there 👋 I'm <a href="https://github.com/CyberTiwari">Sunil Tiwari</a>
-<a href="https://twitter.com/CyberTiwari">
-  <img align="left" alt=" Sunil Tiwari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+# Hi there 👋 I'm <a href="https://github.com/technical-ms">Moolchand Sharma</a>
+<a href="https://twitter.com/technical__ms">
+  <img align="left" alt=" Moolchand Sharma's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/cybertiwari">
-  <img align="left" alt="Sunil Tiwari's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/technical-ms">
+  <img align="left" alt="Moolchand Sharma's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/technical__ms">
   <img align="left" alt="Moolchand Sharma's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
