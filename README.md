@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Moolchand Sharma, a Web App Developer , Programmer 🚀 from India
+Hi, I'm Moolchand Sharma, a Web App Developer 🚀 from India
 
 Besides developing stuff , I enjoy listening to music 🎧 , playing games, riding bike :bike: , drinking tea :tea:  and travelling 🏝️ 
 
