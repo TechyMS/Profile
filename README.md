@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/technical-ms">
   <img align="left" alt="Moolchand Sharma's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/technical__ms">
+<a href="https://www.instagram.com/technical__ms_">
   <img align="left" alt="Moolchand Sharma's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
