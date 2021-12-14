@@ -11,14 +11,14 @@
 <br />
 <br />
 
-Hi, I'm Moolchand Sharma, a Web App Developer 🚀 from India
+Hi, I'm Moolchand Sharma, a Full Stack Software Engineer 🚀 from India
 
 Besides developing stuff , I enjoy listening to music 🎧 , playing games, riding bike :bike: , drinking tea :tea:  and travelling 🏝️ 
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working as a Laravel Developer
-- 💬 Ask me about Web Development And Package development.
+- 🔭 I’m currently working as a Full Stack Software Engineer
+- 💬 Ask me about Web Development And Laravel Package development.
 - 📫 Reach me: <a href="mailto:moolchand390@gmail.com">moolchand390@gmail.com</a>
 
 &nbsp;
